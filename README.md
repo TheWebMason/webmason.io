@@ -1,2 +1,0 @@
-# webmason.io
-WebMason.io
